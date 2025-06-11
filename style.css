@@ -13,6 +13,9 @@ body{
     width:60%;
     border: none;
 }
+.all input:focus{
+    outline:none;
+}
 .all button{
     margin-top: 30px;
     width: 40%;
