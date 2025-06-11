@@ -1,0 +1,33 @@
+body{
+    background-color: darkblue;
+}
+
+
+.all{
+    display: grid;
+    place-items: center;
+    
+}
+.all input{
+    height:40px;
+    width:60%;
+    border: none;
+}
+.all button{
+    margin-top: 30px;
+    width: 40%;
+    height: 60%;
+    border-radius: 10px;
+    border: none;
+    background-color: #FFE99A;
+}
+.mam{
+    color: aqua;
+}
+.cmm{
+    color:chartreuse;
+}
+
+    
+
+
